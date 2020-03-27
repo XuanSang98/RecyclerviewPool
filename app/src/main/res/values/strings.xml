@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerviewPool</string>
+    <string name="da_mi">Da Mi</string>
+    <string name="ten_dien_vien">Ten Dien Vien</string>
 </resources>
